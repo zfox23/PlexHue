@@ -1,0 +1,10 @@
+{
+    "HUE_BRIDGE_IP_ADDRESS": "192.168.1.30",
+    "VALID_PLAYER_NAMES": [
+        "LG OLED77CXPUA",
+        "Firefox"
+    ],
+    "PORT": 8085,
+    "LIGHT_GROUP_NAME_TO_CONTROL": "Theater",
+    "LIGHT_NAMES_TO_CONTROL": []
+}

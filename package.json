@@ -1,0 +1,23 @@
+{
+  "name": "plexhue",
+  "version": "1.0.0",
+  "description": "Automatically modify the state of your Philips Hue lights upon certain Plex playback events. Requires a Plex Pass.",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zfox23/PlexHue.git"
+  },
+  "author": "Zach Fox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zfox23/PlexHue/issues"
+  },
+  "homepage": "https://github.com/zfox23/PlexHue#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
